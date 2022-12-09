@@ -19,7 +19,7 @@ were Epochs = 100, YOLOv5 model = yolov5m, Image resolution = 640. With these pa
 Check video demonstration above to see what the code will do once ran. The file "yolov5" contains a folder called "dataset" which contains
 the dataset used for training and a folder called "runs". In runs\train\ there is a folder called "exp33" which contains the demonstrated model used for
 detecting the new object "sneaker". To run the code yourself, open the command prompt in C:\yolov5, and enter
-"python detect.py --source 0 --weights C:\yolov5\runs\train\exp33\weights\best.pt". 
+"python detect.py --source 0 --weights C:\yolov5\runs\train\exp33\weights\best.pt". The git version given only has the best.pt file, but no results due to lack of space allowed on Github.
 
 The game was the "Dance Challenge" game from the "Coding Games in Python" book. Our goal was to add three tweaks to the code given in the book: Longer Dances,
 Play Against a Friend, and Change the Music. All of these tweaks were successfully implemented. Check video above for a demonstration.
