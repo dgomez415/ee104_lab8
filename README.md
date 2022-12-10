@@ -2,7 +2,10 @@
 
 # Demonstrations
 Link to Image Detection demonstration: https://youtu.be/u0Vpp5sHOaY
+
 Link to Dance Challenge demonstration: https://youtu.be/_9BjQh-1mLM
+
+Link to Github: https://github.com/dgomez415/ee104_lab8.git
 
 # References:
 1. "YOLOv5 Object Detection on Windows (Step-By-Step Tutorial)": https://wandb.ai/onlineinference/YOLO/reports/YOLOv5-Object-Detection-on-Windows-Step-By-Step-Tutorial---VmlldzoxMDQwNzk4
@@ -40,3 +43,6 @@ Functionalities Added:
 1. Dance length increases by 1 every time both players pass a level
 2. Two players, WASD key presses register
 3. Music changed 
+
+# Note about Git version
+Git does not allow files greater than 100 MB so to conserve space the "exp33" folder only contains the best.pt used to run our model using detect.py.
